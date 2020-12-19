@@ -1,0 +1,33 @@
+.follow_pf{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+.wrapper{
+    background: #E5E5E5;
+border-radius: 12px;
+width: 100px;
+height: 67px;
+margin:  2rem 0.8rem;
+
+}
+
+.wrapper .num{
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #4E5150;
+    text-align: center;
+    padding-top: 10px;
+}
+.wrapper .text{
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #BDBDBD;
+    text-align: center;
+}
+
