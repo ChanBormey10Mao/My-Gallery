@@ -62,6 +62,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://chanbormey10mao.github.io/My-Gallery/)
+
 - GitHub [@ChanBormey10Mao](https://github.com/ChanBormey10Mao)
 - Twitter [@BormeyTech](https://twitter.com/BormeyTech)
